@@ -1,0 +1,7 @@
+kill-window -a
+rename-window 'compile'
+new-window -n 'code'
+new-window -n 'run'
+new-window -n 'test'
+new-window -n 'play'
+next-window
